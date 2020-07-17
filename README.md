@@ -35,9 +35,9 @@ $ go run setup.go
 # Run Historian on your machine (make sure $PATH contains $GOBIN)
 $ go run cmd/battery-historian/battery-historian.go [--port <default:9999>]
 ```
-## Android Q 无法载入问题
+## Android Q 无法载入问题，代码已经合入
 
-## copy code
+## copy code ， 代码已经合入
 https://github.com/google/closure-library
 https://github.com/google/closure-compiler
 https://github.com/markrcote/flot-axislabels
